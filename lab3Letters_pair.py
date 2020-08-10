@@ -1,4 +1,4 @@
-#Sidharth and Theodoer
+#Sidharth and Theodore
 #1.the "anonymous turtle" is the default turtle used if none are created in Code, or the first created if multiple are created
 #2."turtle" refers to the turtle library while "Turtle()" refers to the turtle class
 #3.myTurtle.sety(100)
