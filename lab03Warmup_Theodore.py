@@ -1,4 +1,4 @@
-# Theodore Hui, program draws a T with turtle
+# Theodore Hui, program draws a T with turtle 
 import turtle
 def drawPicture(theTurtle):
 
@@ -24,7 +24,7 @@ def drawPicture(theTurtle):
 
 myTurtle = turtle.Turtle()  # Create a new Turtle object
 
-drawPicture(myTurtle)   # make the new Turtle draw the shape\
+drawPicture(myTurtle)   # make the new Turtle draw the shape
 
 turtle1 = turtle.Turtle()
 
